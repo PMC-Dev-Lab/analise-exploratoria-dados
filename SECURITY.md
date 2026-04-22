@@ -2,8 +2,8 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following table lists which versions currently receive security updates.
+Only versions marked with :white_check_mark: are supported for security patches.
 
 | Version | Supported          |
 | ------- | ------------------ |
